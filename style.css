@@ -1,3 +1,13 @@
+.d1{
+	float: left;
+	background-color: aquamarine;
+	border: 3px solid rebeccapurple;
+	width: 30%;
+	margin: 5px;
+}
+
+
+
 .s1{
 
 	margin: 10px;
@@ -5,4 +15,71 @@
 	border-radius:5;
 	border: 3px solid red;
 	
+}
+ul li {
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    float: left;
+    padding: 12px ;
+    color: rgb(16, 8, 121);
+    background-color: rgb(100, 173, 3);
+}
+ul{
+   margin-left: 350px;
+   padding: 0;
+}
+.header{
+    height: 42px;
+    background-color:rgb(100, 173, 3);
+}
+.ch1 .s1{
+    border: 2px solid black;
+    height: 250px;
+    width: 20%;
+   
+}
+.css{
+    border: 2px solid black;
+    height: 250px;
+    width: 30%;
+}
+.bootstrap{
+    border: 2px solid black;
+    height: 250px;
+    width: 30%;
+}
+.html, .css, .bootstrap{
+    float: left;
+    margin: 10px;
+    background-color: paleturquoise;
+}
+h3, h1{
+    text-align: center;
+}
+.h1{
+    color: orangered;
+    font-size: xx-large;
+}
+.huti, .cuti, .booti{
+    color: orchid;
+}
+.group{
+    margin-left: 10px;
+}
+.service{
+    background-color: rgb(235, 2, 2);
+    height: 380px;
+    margin-top: -26px;
+   
+}
+
+
+.upor{
+    padding-bottom: 20px;
+    padding-top: 110px;
+}
+.see{
+    padding-top: 20px;
 }
