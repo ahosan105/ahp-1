@@ -1,85 +1,54 @@
-.d1{
+.d1 {
 	float: left;
-	background-color: aquamarine;
-	border: 3px solid rebeccapurple;
-	width: 30%;
+	background-color: rgb(86, 230, 182);
+	border: 3px solid rgb(231, 59, 6);
+	width: 31%;
 	margin: 5px;
+	text-align: center;
 }
 
 
-
-.s1{
-
+.h1{
+    color: orangered;
+	font-size: 30px;
+	text-align: center;
+}
+.d11{
+    float: left;
+	background-color: rgb(226, 35, 210);
+	border: 3px solid rgb(3, 83, 129);
+	width: 23%;
+	margin: 5px;
+	text-align: center;
+}
+.g1{
 	margin: 10px;
 	float: left;
 	border-radius:5;
-	border: 3px solid red;
-	
+	border: 3px solid rgb(82, 3, 3);
 }
-ul li {
-    list-style-type: none;
+.d111{
+	float: left;
+	background-color: rgb(5, 71, 49);
+	border: 3px solid rgb(193, 226, 46);
+	width: 18%;
+	margin: 5px;
+	text-align: center;
 }
-ul li a{
-    text-decoration: none;
-    float: left;
-    padding: 12px ;
-    color: rgb(16, 8, 121);
-    background-color: rgb(100, 173, 3);
 }
-ul{
-   margin-left: 350px;
-   padding: 0;
+.d1111{
+	float: left;
+	background-color: rgb(69, 35, 100);
+	border: 3px solid rgb(5, 231, 118);
+	width: 15%;
+	margin: 5px;
+	text-align: center;
 }
-.header{
-    height: 42px;
-    background-color:rgb(100, 173, 3);
-}
-.ch1 .s1{
-    border: 2px solid black;
-    height: 250px;
-    width: 20%;
-   
-}
-.css{
-    border: 2px solid black;
-    height: 250px;
-    width: 30%;
-}
-.bootstrap{
-    border: 2px solid black;
-    height: 250px;
-    width: 30%;
-}
-.html, .css, .bootstrap{
-    float: left;
-    margin: 10px;
-    background-color: paleturquoise;
-}
-h3, h1{
-    text-align: center;
-}
-.h1{
-    color: orangered;
-    font-size: xx-large;
-}
-.huti, .cuti, .booti{
-    color: orchid;
-}
-.group{
-    margin-left: 10px;
-}
-.service{
-    background-color: rgb(235, 2, 2);
-    height: 380px;
-    margin-top: -26px;
-   
-}
-
-
-.upor{
-    padding-bottom: 20px;
-    padding-top: 110px;
-}
-.see{
-    padding-top: 20px;
+.d1111{
+	float: left;
+	background-color: rgb(122, 38, 17);
+	border: 3px solid rgb(230, 0, 172);
+	width: 13%;
+	margin: 5px;
+	text-align: center;
 }
